@@ -1,52 +1,30 @@
-<!DOCTYPE html>
-<html>
-    <head>
-<link rel="stylesheet" href="112.css">
-    </head>
-    <body><div id="left">
-<div id="tit"> 
-    <h3>Majdoleen Shaderma</h3>
-    <img src="png-clipart-silhouette-icon-blank-person-template-share-icon-black-and-white.png">
+#left{
+    float:left;
+    background-color: #79a9d1;
+  /*  padding-right: 90px;*/
+    padding-left:100px ;
+    padding-bottom:470px;
+    width: 50%;
+  
+  
+}
+ img{
+    border-radius: 50%;
+    width: 150px;
 
-</div>
-<div id="tit">
-    <p>EMAIL:majdoleenshaderma7@gmail.com <br>
-        <br>
-       Mobbil:0798211956 <br><br>
-       Specialization:Computer Enginering
-    </p>
-</div></div>
-<div id="ri">
-    <div>
-        <p>
-            My name is Majdoleen , I am 20 years old, I am still studying at the university, and I love learning everything related to programming.
-        </p>
-        <h3>
-            Education:
-        </h3>
-        <ul>
-            <li>AL BAQAA SECONDARY SCHOOL FOR GIRLS</li>
-            <LI>BALQA APPLIED UNIVERSITY:2021-SO FOR</LI>
-        </ul>
-        <h3> PERSONAL SKILLS:</h3>
-        <ul>
-            <li>communcation skills</li>
-            <li> teamwork</li>
-            <li>organization </li>
+ }
+ #ri{
+    float:inline-start;
+    background-color: #7d8ca3;
+    /*padding:100px 475px 330px 100px ;*/
+    width: 50%;
+   
 
-        </ul>
-        <H3>TECHNICAL SKILLS:</H3>
-        <UL>
-            <li>computer skills</li>
-            <li>I have good knowledge in c++</li>
-            <li>Mathematics</li>
-        </UL>
-    </div>
     
 
-</div>
-    </body>
-    <footer>
-
-    </footer>
-</html>
+ }
+ body{
+    margin: 0px;
+    color: white;
+    
+ }

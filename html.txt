@@ -13,7 +13,7 @@
 
         </div>
         <div id="tit">
-            <p>EMAIL:majdoleenshaderma7@gmail.com <br>
+            <p>Email:majdoleenshaderma7@gmail.com <br>
                 <br> Mobbil:0798211956 <br><br> Specialization:Computer Engineering
             </p>
         </div>

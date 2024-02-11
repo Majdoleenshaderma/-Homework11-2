@@ -25,6 +25,7 @@
                 and acquiring the necessary knowledge and skills. I believe that learning programming languages is an important foundation in this field, so I am working hard to improve my skills in this regard. Thank you for your interest in my CV, I
                 hope I can provide added value to any future opportunity.
             </p>
+            <hr>
             <h3>
                 Education:
             </h3>
@@ -32,6 +33,7 @@
                 <li>AL BAQAA SECONDARY SCHOOL FOR GIRLS</li>
                 <LI>BALQA APPLIED UNIVERSITY:2021-SO FOR</LI>
             </ul>
+            <hr>
             <h3> PERSONAL SKILLS:</h3>
             <ul>
                 <li>communcation skills</li>
@@ -39,6 +41,7 @@
                 <li>organization </li>
 
             </ul>
+            <hr>
             <H3>TECHNICAL SKILLS:</H3>
             <UL>
                 <li>computer skills</li>

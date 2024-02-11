@@ -10,7 +10,7 @@ img {
     padding-left: 60px;
     width: 50%;
     padding-left: 35px;
-    padding-bottom: 125px;
+    padding-bottom: 180px;
 }
 
 #ri {
@@ -24,4 +24,8 @@ img {
 body {
     margin: auto;
     width: 80%;
+}
+
+hr {
+    border: 1px black solid;
 }

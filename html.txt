@@ -1,52 +1,57 @@
 <!DOCTYPE html>
 <html>
-    <head>
-<link rel="stylesheet" href="112.css">
-    </head>
-    <body><div id="left">
-<div id="tit"> 
-    <h3>Majdoleen Shaderma</h3>
-    <img src="png-clipart-silhouette-icon-blank-person-template-share-icon-black-and-white.png">
 
-</div>
-<div id="tit">
-    <p>EMAIL:majdoleenshaderma7@gmail.com <br>
-        <br>
-       Mobbil:0798211956 <br><br>
-       Specialization:Computer Enginering
-    </p>
-</div></div>
-<div id="ri">
-    <div>
-        <p>
-            My name is Majdoleen , I am 20 years old, I am still studying at the university, and I love learning everything related to programming.
-        </p>
-        <h3>
-            Education:
-        </h3>
-        <ul>
-            <li>AL BAQAA SECONDARY SCHOOL FOR GIRLS</li>
-            <LI>BALQA APPLIED UNIVERSITY:2021-SO FOR</LI>
-        </ul>
-        <h3> PERSONAL SKILLS:</h3>
-        <ul>
-            <li>communcation skills</li>
-            <li> teamwork</li>
-            <li>organization </li>
+<head>
+    <link rel="stylesheet" href="css.css">
+</head>
 
-        </ul>
-        <H3>TECHNICAL SKILLS:</H3>
-        <UL>
-            <li>computer skills</li>
-            <li>I have good knowledge in c++</li>
-            <li>Mathematics</li>
-        </UL>
+<body>
+    <div id="left">
+        <div id="tit">
+            <h3>Majdoleen Shaderma</h3>
+            <img src="WhatsApp Image 2024-02-11 at 5.19.27 PM.jpeg">
+
+        </div>
+        <div id="tit">
+            <p>EMAIL:majdoleenshaderma7@gmail.com <br>
+                <br> Mobbil:0798211956 <br><br> Specialization:Computer Enginering
+            </p>
+        </div>
     </div>
-    
+    <div id="ri">
+        <div>
+            <p>
+                I'm Majdoleen, 20 years old, studying computer engineering, and still at university at this time. I show interest in learning and developing programming languages. I seek to achieve success in the field of computer engineering through university study
+                and acquiring the necessary knowledge and skills. I believe that learning programming languages is an important foundation in this field, so I am working hard to improve my skills in this regard. Thank you for your interest in my CV, I
+                hope I can provide added value to any future opportunity.
+            </p>
+            <h3>
+                Education:
+            </h3>
+            <ul>
+                <li>AL BAQAA SECONDARY SCHOOL FOR GIRLS</li>
+                <LI>BALQA APPLIED UNIVERSITY:2021-SO FOR</LI>
+            </ul>
+            <h3> PERSONAL SKILLS:</h3>
+            <ul>
+                <li>communcation skills</li>
+                <li> teamwork</li>
+                <li>organization </li>
 
-</div>
-    </body>
-    <footer>
+            </ul>
+            <H3>TECHNICAL SKILLS:</H3>
+            <UL>
+                <li>computer skills</li>
+                <li>I have good knowledge in c++</li>
+                <li>Mathematics</li>
+            </UL>
+        </div>
 
-    </footer>
+
+    </div>
+</body>
+<footer>
+
+</footer>
+
 </html>
